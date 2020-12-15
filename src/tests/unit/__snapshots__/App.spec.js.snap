@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component default snapshot 1`] = `
+<v-app-stub>
+  <div
+    class="secondary fill-height"
+  >
+    <router-view-stub />
+  </div>
+</v-app-stub>
+`;

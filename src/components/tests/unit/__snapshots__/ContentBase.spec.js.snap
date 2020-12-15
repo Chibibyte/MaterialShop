@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component default snapshot 1`] = `
+<v-card-stub>
+  <v-container-stub
+    class="white pb-0"
+  >
+    <v-form-stub
+      class="white"
+    />
+     
+  </v-container-stub>
+</v-card-stub>
+`;

@@ -1,0 +1,89 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component default snapshot 1`] = `
+<div>
+  <checkoutnavbar-stub />
+   
+  <v-main-stub>
+    <router-view-stub />
+     
+    <v-dialog-stub
+      max-width="290"
+    >
+      <v-card-stub>
+        <v-card-title-stub
+          class="headline"
+        >
+          Leave checkout?
+        </v-card-title-stub>
+         
+        <v-card-text-stub>
+          Your checkout data will be lost.
+        </v-card-text-stub>
+         
+        <v-card-actions-stub>
+          <v-spacer-stub />
+           
+          <v-btn-stub
+            color="green darken-1"
+            text=""
+          >
+            Cancel
+          </v-btn-stub>
+           
+          <v-btn-stub
+            color="green darken-1"
+            text=""
+          >
+            Confirm
+          </v-btn-stub>
+        </v-card-actions-stub>
+      </v-card-stub>
+    </v-dialog-stub>
+  </v-main-stub>
+</div>
+`;
+
+exports[`getter: leaving leaving in store is true 1`] = `
+<div>
+  <checkoutnavbar-stub />
+   
+  <v-main-stub>
+    <router-view-stub />
+     
+    <v-dialog-stub
+      max-width="290"
+    >
+      <v-card-stub>
+        <v-card-title-stub
+          class="headline"
+        >
+          Leave checkout?
+        </v-card-title-stub>
+         
+        <v-card-text-stub>
+          Your checkout data will be lost.
+        </v-card-text-stub>
+         
+        <v-card-actions-stub>
+          <v-spacer-stub />
+           
+          <v-btn-stub
+            color="green darken-1"
+            text=""
+          >
+            Cancel
+          </v-btn-stub>
+           
+          <v-btn-stub
+            color="green darken-1"
+            text=""
+          >
+            Confirm
+          </v-btn-stub>
+        </v-card-actions-stub>
+      </v-card-stub>
+    </v-dialog-stub>
+  </v-main-stub>
+</div>
+`;

@@ -1,0 +1,54 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component default snapshot 1`] = `
+<v-app-bar-stub
+  app=""
+  class="accent"
+>
+  <v-container-stub
+    app=""
+    class="d-flex justify-space-around"
+  >
+    <navbutton-stub
+      icon="mdi-window-close"
+      name="Cancel"
+      to="/"
+    />
+     
+    <navbutton-stub
+      disabled="true"
+      icon="mdi-login-variant"
+      name="Delivery address"
+      to="/checkout/address"
+    />
+     
+    <navbutton-stub
+      disabled="true"
+      icon="mdi-package-variant"
+      name="Bank Account"
+      to="/checkout/bankaccount"
+    />
+     
+    <navbutton-stub
+      disabled="true"
+      icon="mdi-bank"
+      name="Shipping"
+      to="/checkout/shipping"
+    />
+     
+    <navbutton-stub
+      disabled="true"
+      icon="mdi-truck"
+      name="Payment"
+      to="/checkout/payment"
+    />
+     
+    <navbutton-stub
+      disabled="true"
+      icon="mdi-cash"
+      name="Summary"
+      to="/checkout/summary"
+    />
+  </v-container-stub>
+</v-app-bar-stub>
+`;

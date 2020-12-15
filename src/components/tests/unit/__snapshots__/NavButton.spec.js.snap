@@ -1,0 +1,57 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component default snapshot 1`] = `
+<router-link-stub
+  ariacurrentvalue="page"
+  event="click"
+  tag="a"
+  to="/"
+>
+  <v-btn-stub>
+    <v-icon-stub
+      left=""
+    >
+      
+    </v-icon-stub>
+     
+    <span>
+      
+    </span>
+  </v-btn-stub>
+</router-link-stub>
+`;
+
+exports[`props:runBefore runBefore:routerPush == false 1`] = `
+<router-link-stub
+  ariacurrentvalue="page"
+  event="click"
+  tag="a"
+  to="/"
+>
+  <v-btn-stub>
+    <v-icon-stub
+      left=""
+    >
+      
+    </v-icon-stub>
+     
+    <span>
+      
+    </span>
+  </v-btn-stub>
+</router-link-stub>
+`;
+
+exports[`props:runBefore runBefore:routerPush == true 1`] = `
+<v-btn-stub>
+  <v-icon-stub
+    left=""
+  >
+    
+  </v-icon-stub>
+   
+  <span>
+    
+  </span>
+</v-btn-stub>
+`;

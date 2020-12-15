@@ -1,0 +1,265 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component default snapshot 1`] = `
+<checkoutbase-stub
+  icon="mdi-text-box-check-outline"
+  invisible="true"
+  next_disabled="true"
+  next_icon="mdi-check"
+  next_name="next"
+  next_target="complete"
+  subtitle="Please verify that your order is correct"
+  title="Summary"
+>
+  <v-row-stub>
+    <v-col-stub>
+      <h1>
+        Order
+      </h1>
+        
+      <h1>
+        DeliveryAddress
+      </h1>
+       
+      <address-stub
+        class="mb-5"
+        dense="true"
+        readonly="true"
+        validate="default() {}"
+      />
+       
+      <h1>
+        Bankaccount
+      </h1>
+       
+      <bankaccount-stub
+        class="mb-5"
+        dense="true"
+        readonly="true"
+        validate="default() {}"
+      />
+       
+      <h1>
+        Shipping
+      </h1>
+       
+      <shipping-stub
+        class="mb-5"
+        dense="true"
+        readonly="true"
+        validate="default() {}"
+        value="[object Object]"
+      />
+       
+      <h1>
+        Payment
+      </h1>
+       
+      <payment-stub
+        class="mb-5"
+        dense="true"
+        readonly="true"
+        validate="default() {}"
+      />
+    </v-col-stub>
+     
+    <v-col-stub>
+      <h1>
+        Price
+      </h1>
+       
+      <summarycost-stub
+        class="mb-5"
+        dense="true"
+        readonly="true"
+        validate="default() {}"
+        value="[object Object]"
+      />
+       
+      <navbutton-stub
+        icon="mdi-check"
+        name="Order now"
+        routerpush="true"
+        runbefore="function () { [native code] }"
+        to="complete"
+      />
+    </v-col-stub>
+  </v-row-stub>
+</checkoutbase-stub>
+`;
+
+exports[`set output props all props except invisible 1`] = `
+<checkoutbase-stub
+  icon="mdi-text-box-check-outline"
+  invisible="true"
+  next_disabled="true"
+  next_icon="mdi-check"
+  next_name="next"
+  next_target="complete"
+  subtitle="Please verify that your order is correct"
+  title="Summary"
+>
+  <v-row-stub>
+    <v-col-stub>
+      <h1>
+        Order
+      </h1>
+        
+      <h1>
+        DeliveryAddress
+      </h1>
+       
+      <address-stub
+        class="mb-5"
+        dense="true"
+        readonly="true"
+        validate="default() {}"
+      />
+       
+      <h1>
+        Bankaccount
+      </h1>
+       
+      <bankaccount-stub
+        class="mb-5"
+        dense="true"
+        readonly="true"
+        validate="default() {}"
+      />
+       
+      <h1>
+        Shipping
+      </h1>
+       
+      <shipping-stub
+        class="mb-5"
+        dense="true"
+        readonly="true"
+        validate="default() {}"
+        value="[object Object]"
+      />
+       
+      <h1>
+        Payment
+      </h1>
+       
+      <payment-stub
+        class="mb-5"
+        dense="true"
+        readonly="true"
+        validate="default() {}"
+      />
+    </v-col-stub>
+     
+    <v-col-stub>
+      <h1>
+        Price
+      </h1>
+       
+      <summarycost-stub
+        class="mb-5"
+        dense="true"
+        readonly="true"
+        validate="default() {}"
+        value="[object Object]"
+      />
+       
+      <navbutton-stub
+        icon="mdi-check"
+        name="Order now"
+        routerpush="true"
+        runbefore="function () { [native code] }"
+        to="complete"
+      />
+    </v-col-stub>
+  </v-row-stub>
+</checkoutbase-stub>
+`;
+
+exports[`set output props all props set 1`] = `
+<checkoutbase-stub
+  icon="mdi-text-box-check-outline"
+  invisible="true"
+  next_disabled="true"
+  next_icon="mdi-check"
+  next_name="next"
+  next_target="complete"
+  subtitle="Please verify that your order is correct"
+  title="Summary"
+>
+  <v-row-stub>
+    <v-col-stub>
+      <h1>
+        Order
+      </h1>
+        
+      <h1>
+        DeliveryAddress
+      </h1>
+       
+      <address-stub
+        class="mb-5"
+        dense="true"
+        readonly="true"
+        validate="default() {}"
+      />
+       
+      <h1>
+        Bankaccount
+      </h1>
+       
+      <bankaccount-stub
+        class="mb-5"
+        dense="true"
+        readonly="true"
+        validate="default() {}"
+      />
+       
+      <h1>
+        Shipping
+      </h1>
+       
+      <shipping-stub
+        class="mb-5"
+        dense="true"
+        readonly="true"
+        validate="default() {}"
+        value="[object Object]"
+      />
+       
+      <h1>
+        Payment
+      </h1>
+       
+      <payment-stub
+        class="mb-5"
+        dense="true"
+        readonly="true"
+        validate="default() {}"
+      />
+    </v-col-stub>
+     
+    <v-col-stub>
+      <h1>
+        Price
+      </h1>
+       
+      <summarycost-stub
+        class="mb-5"
+        dense="true"
+        readonly="true"
+        validate="default() {}"
+        value="[object Object]"
+      />
+       
+      <navbutton-stub
+        icon="mdi-check"
+        name="Order now"
+        routerpush="true"
+        runbefore="function () { [native code] }"
+        to="complete"
+      />
+    </v-col-stub>
+  </v-row-stub>
+</checkoutbase-stub>
+`;

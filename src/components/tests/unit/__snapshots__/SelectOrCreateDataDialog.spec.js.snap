@@ -1,0 +1,53 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component default snapshot 1`] = `
+<v-dialog-stub
+  width="unset"
+>
+  <h1
+    class="white pa-3 orange"
+  >
+    TITLE
+  </h1>
+    
+  <v-container-stub>
+    <v-btn-stub>
+      <span>
+        Cancel
+      </span>
+    </v-btn-stub>
+     
+    <v-btn-stub>
+      <span>
+        Confim
+      </span>
+    </v-btn-stub>
+  </v-container-stub>
+</v-dialog-stub>
+`;
+
+exports[`methods: closeDialog default 1`] = `
+<v-dialog-stub
+  width="unset"
+>
+  <h1
+    class="white pa-3 orange"
+  >
+    TITLE
+  </h1>
+    
+  <v-container-stub>
+    <v-btn-stub>
+      <span>
+        Cancel
+      </span>
+    </v-btn-stub>
+     
+    <v-btn-stub>
+      <span>
+        Confim
+      </span>
+    </v-btn-stub>
+  </v-container-stub>
+</v-dialog-stub>
+`;

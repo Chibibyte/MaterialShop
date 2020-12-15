@@ -1,0 +1,46 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component default snapshot 1`] = `
+<v-container-stub>
+  <v-row-stub>
+    <v-col-stub>
+      <v-row-stub>
+        <itemlistviewitem-stub
+          clearingcart="true"
+          initamount="4"
+          item="[object Object]"
+        />
+      </v-row-stub>
+      <v-row-stub>
+        <itemlistviewitem-stub
+          clearingcart="true"
+          initamount="2"
+          item="[object Object]"
+        />
+      </v-row-stub>
+    </v-col-stub>
+     
+    <v-col-stub
+      cols="3"
+    >
+      <v-card-stub
+        class="white d-flex justify-center align-items-center"
+      >
+        <div>
+          <v-card-title-stub>
+            Sum ( Artikel): €
+          </v-card-title-stub>
+           
+          <v-card-actions-stub>
+            <navbutton-stub
+              icon="mdi-cash-register"
+              name="Checkout"
+              to="/checkout"
+            />
+          </v-card-actions-stub>
+        </div>
+      </v-card-stub>
+    </v-col-stub>
+  </v-row-stub>
+</v-container-stub>
+`;

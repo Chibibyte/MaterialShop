@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component default snapshot 1`] = `
+<checkoutbase-stub
+  icon="mdi-cash"
+  next_disabled="true"
+  next_icon="mdi-text-box-check-outline"
+  next_name="next"
+  next_target="summary"
+  subtitle="Choose a payment method"
+  title="Payment"
+>
+  <selectorcreate-stub
+    chstate="payment"
+    contentarrname="paymentServices"
+    datadialogtext="[object Object]"
+    datatokeyfunction="function () { [native code] }"
+    emptydatafunction="function () { [native code] }"
+  />
+</checkoutbase-stub>
+`;

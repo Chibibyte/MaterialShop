@@ -1,0 +1,932 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component default snapshot 1`] = `
+<div>
+  <v-container-stub
+    class="pa-0 ma-0"
+    fluid=""
+  >
+    <v-row-stub
+      align="center"
+      class="primary ma-0 pa-0"
+      justify="space-around"
+    >
+      <v-col-stub
+        class="ma-0 pa-2"
+        cols="4"
+      >
+        <v-text-field-stub
+          class="ma-0 pa-0 white"
+          dense=""
+          hide-details=""
+          href="searchbar"
+          label="Name includes"
+          outlined=""
+          placeholder="Name includes..."
+          value=""
+        />
+      </v-col-stub>
+       
+      <v-col-stub
+        class="ma-0 pa-0"
+        cols="2"
+      >
+        <v-select-stub
+          class="ma-0 pa-0 white"
+          dense=""
+          hide-details=""
+          href="sortSelect"
+          item-text="value"
+          item-value="dir"
+          items="Name ascending,Name descending"
+          label="Sort by"
+          outlined=""
+          value="Name ascending"
+        />
+      </v-col-stub>
+    </v-row-stub>
+  </v-container-stub>
+   
+  <v-container-stub
+    class="white"
+  >
+    <v-container-stub
+      class="d-flex"
+    >
+      <v-pagination-stub
+        class="flex-grow-1 flex-shrink-0"
+        length="1"
+        total-visible="10"
+        value="1"
+      />
+       
+      <v-select-stub
+        class="flex-shrink-1 flex-grow-0"
+        dense=""
+        hide-details=""
+        items="20,50,100"
+        label="items"
+        outlined=""
+        value="20"
+      />
+    </v-container-stub>
+     
+    <v-row-stub>
+      <v-col-stub
+        cols="2"
+      >
+        <itemlistviewitem-stub
+          initamount="1"
+          item="[object Object]"
+        />
+      </v-col-stub>
+      <v-col-stub
+        cols="2"
+      >
+        <itemlistviewitem-stub
+          initamount="1"
+          item="[object Object]"
+        />
+      </v-col-stub>
+      <v-col-stub
+        cols="2"
+      >
+        <itemlistviewitem-stub
+          initamount="1"
+          item="[object Object]"
+        />
+      </v-col-stub>
+      <v-col-stub
+        cols="2"
+      >
+        <itemlistviewitem-stub
+          initamount="1"
+          item="[object Object]"
+        />
+      </v-col-stub>
+      <v-col-stub
+        cols="2"
+      >
+        <itemlistviewitem-stub
+          initamount="1"
+          item="[object Object]"
+        />
+      </v-col-stub>
+      <v-col-stub
+        cols="2"
+      >
+        <itemlistviewitem-stub
+          initamount="1"
+          item="[object Object]"
+        />
+      </v-col-stub>
+      <v-col-stub
+        cols="2"
+      >
+        <itemlistviewitem-stub
+          initamount="1"
+          item="[object Object]"
+        />
+      </v-col-stub>
+    </v-row-stub>
+  </v-container-stub>
+</div>
+`;
+
+exports[`watch maxItems 1`] = `
+<div>
+  <v-container-stub
+    class="pa-0 ma-0"
+    fluid=""
+  >
+    <v-row-stub
+      align="center"
+      class="primary ma-0 pa-0"
+      justify="space-around"
+    >
+      <v-col-stub
+        class="ma-0 pa-2"
+        cols="4"
+      >
+        <v-text-field-stub
+          class="ma-0 pa-0 white"
+          dense=""
+          hide-details=""
+          href="searchbar"
+          label="Name includes"
+          outlined=""
+          placeholder="Name includes..."
+          value=""
+        />
+      </v-col-stub>
+       
+      <v-col-stub
+        class="ma-0 pa-0"
+        cols="2"
+      >
+        <v-select-stub
+          class="ma-0 pa-0 white"
+          dense=""
+          hide-details=""
+          href="sortSelect"
+          item-text="value"
+          item-value="dir"
+          items="Name ascending,Name descending"
+          label="Sort by"
+          outlined=""
+          value="Name ascending"
+        />
+      </v-col-stub>
+    </v-row-stub>
+  </v-container-stub>
+   
+  <v-container-stub
+    class="white"
+  >
+    <v-container-stub
+      class="d-flex"
+    >
+      <v-pagination-stub
+        class="flex-grow-1 flex-shrink-0"
+        length="8"
+        total-visible="10"
+        value="1"
+      />
+       
+      <v-select-stub
+        class="flex-shrink-1 flex-grow-0"
+        dense=""
+        hide-details=""
+        items="20,50,100"
+        label="items"
+        outlined=""
+        value="1"
+      />
+    </v-container-stub>
+     
+    <v-row-stub>
+      <v-col-stub
+        cols="2"
+      >
+        <itemlistviewitem-stub
+          initamount="1"
+          item="[object Object]"
+        />
+      </v-col-stub>
+      <v-col-stub
+        cols="2"
+      >
+        <itemlistviewitem-stub
+          initamount="1"
+          item="[object Object]"
+        />
+      </v-col-stub>
+      <v-col-stub
+        cols="2"
+      >
+        <itemlistviewitem-stub
+          initamount="1"
+          item="[object Object]"
+        />
+      </v-col-stub>
+      <v-col-stub
+        cols="2"
+      >
+        <itemlistviewitem-stub
+          initamount="1"
+          item="[object Object]"
+        />
+      </v-col-stub>
+      <v-col-stub
+        cols="2"
+      >
+        <itemlistviewitem-stub
+          initamount="1"
+          item="[object Object]"
+        />
+      </v-col-stub>
+      <v-col-stub
+        cols="2"
+      >
+        <itemlistviewitem-stub
+          initamount="1"
+          item="[object Object]"
+        />
+      </v-col-stub>
+      <v-col-stub
+        cols="2"
+      >
+        <itemlistviewitem-stub
+          initamount="1"
+          item="[object Object]"
+        />
+      </v-col-stub>
+    </v-row-stub>
+  </v-container-stub>
+</div>
+`;
+
+exports[`watch maxItems 2`] = `
+<div>
+  <v-container-stub
+    class="pa-0 ma-0"
+    fluid=""
+  >
+    <v-row-stub
+      align="center"
+      class="primary ma-0 pa-0"
+      justify="space-around"
+    >
+      <v-col-stub
+        class="ma-0 pa-2"
+        cols="4"
+      >
+        <v-text-field-stub
+          class="ma-0 pa-0 white"
+          dense=""
+          hide-details=""
+          href="searchbar"
+          label="Name includes"
+          outlined=""
+          placeholder="Name includes..."
+          value=""
+        />
+      </v-col-stub>
+       
+      <v-col-stub
+        class="ma-0 pa-0"
+        cols="2"
+      >
+        <v-select-stub
+          class="ma-0 pa-0 white"
+          dense=""
+          hide-details=""
+          href="sortSelect"
+          item-text="value"
+          item-value="dir"
+          items="Name ascending,Name descending"
+          label="Sort by"
+          outlined=""
+          value="Name ascending"
+        />
+      </v-col-stub>
+    </v-row-stub>
+  </v-container-stub>
+   
+  <v-container-stub
+    class="white"
+  >
+    <v-container-stub
+      class="d-flex"
+    >
+      <v-pagination-stub
+        class="flex-grow-1 flex-shrink-0"
+        length="2"
+        total-visible="10"
+        value="1"
+      />
+       
+      <v-select-stub
+        class="flex-shrink-1 flex-grow-0"
+        dense=""
+        hide-details=""
+        items="20,50,100"
+        label="items"
+        outlined=""
+        value="5"
+      />
+    </v-container-stub>
+     
+    <v-row-stub>
+      <v-col-stub
+        cols="2"
+      >
+        <itemlistviewitem-stub
+          initamount="1"
+          item="[object Object]"
+        />
+      </v-col-stub>
+      <v-col-stub
+        cols="2"
+      >
+        <itemlistviewitem-stub
+          initamount="1"
+          item="[object Object]"
+        />
+      </v-col-stub>
+      <v-col-stub
+        cols="2"
+      >
+        <itemlistviewitem-stub
+          initamount="1"
+          item="[object Object]"
+        />
+      </v-col-stub>
+      <v-col-stub
+        cols="2"
+      >
+        <itemlistviewitem-stub
+          initamount="1"
+          item="[object Object]"
+        />
+      </v-col-stub>
+      <v-col-stub
+        cols="2"
+      >
+        <itemlistviewitem-stub
+          initamount="1"
+          item="[object Object]"
+        />
+      </v-col-stub>
+      <v-col-stub
+        cols="2"
+      >
+        <itemlistviewitem-stub
+          initamount="1"
+          item="[object Object]"
+        />
+      </v-col-stub>
+      <v-col-stub
+        cols="2"
+      >
+        <itemlistviewitem-stub
+          initamount="1"
+          item="[object Object]"
+        />
+      </v-col-stub>
+    </v-row-stub>
+  </v-container-stub>
+</div>
+`;
+
+exports[`watch searchValue 1`] = `
+<div>
+  <v-container-stub
+    class="pa-0 ma-0"
+    fluid=""
+  >
+    <v-row-stub
+      align="center"
+      class="primary ma-0 pa-0"
+      justify="space-around"
+    >
+      <v-col-stub
+        class="ma-0 pa-2"
+        cols="4"
+      >
+        <v-text-field-stub
+          class="ma-0 pa-0 white"
+          dense=""
+          hide-details=""
+          href="searchbar"
+          label="Name includes"
+          outlined=""
+          placeholder="Name includes..."
+          value="1"
+        />
+      </v-col-stub>
+       
+      <v-col-stub
+        class="ma-0 pa-0"
+        cols="2"
+      >
+        <v-select-stub
+          class="ma-0 pa-0 white"
+          dense=""
+          hide-details=""
+          href="sortSelect"
+          item-text="value"
+          item-value="dir"
+          items="Name ascending,Name descending"
+          label="Sort by"
+          outlined=""
+          value="Name ascending"
+        />
+      </v-col-stub>
+    </v-row-stub>
+  </v-container-stub>
+   
+  <v-container-stub
+    class="white"
+  >
+    <v-container-stub
+      class="d-flex"
+    >
+      <v-pagination-stub
+        class="flex-grow-1 flex-shrink-0"
+        length="1"
+        total-visible="10"
+        value="1"
+      />
+       
+      <v-select-stub
+        class="flex-shrink-1 flex-grow-0"
+        dense=""
+        hide-details=""
+        items="20,50,100"
+        label="items"
+        outlined=""
+        value="20"
+      />
+    </v-container-stub>
+     
+    <v-row-stub>
+      <v-col-stub
+        cols="2"
+      >
+        <itemlistviewitem-stub
+          initamount="1"
+          item="[object Object]"
+        />
+      </v-col-stub>
+      <v-col-stub
+        cols="2"
+      >
+        <itemlistviewitem-stub
+          initamount="1"
+          item="[object Object]"
+        />
+      </v-col-stub>
+      <v-col-stub
+        cols="2"
+      >
+        <itemlistviewitem-stub
+          initamount="1"
+          item="[object Object]"
+        />
+      </v-col-stub>
+      <v-col-stub
+        cols="2"
+      >
+        <itemlistviewitem-stub
+          initamount="1"
+          item="[object Object]"
+        />
+      </v-col-stub>
+      <v-col-stub
+        cols="2"
+      >
+        <itemlistviewitem-stub
+          initamount="1"
+          item="[object Object]"
+        />
+      </v-col-stub>
+      <v-col-stub
+        cols="2"
+      >
+        <itemlistviewitem-stub
+          initamount="1"
+          item="[object Object]"
+        />
+      </v-col-stub>
+      <v-col-stub
+        cols="2"
+      >
+        <itemlistviewitem-stub
+          initamount="1"
+          item="[object Object]"
+        />
+      </v-col-stub>
+    </v-row-stub>
+  </v-container-stub>
+</div>
+`;
+
+exports[`watch searchValue 2`] = `
+<div>
+  <v-container-stub
+    class="pa-0 ma-0"
+    fluid=""
+  >
+    <v-row-stub
+      align="center"
+      class="primary ma-0 pa-0"
+      justify="space-around"
+    >
+      <v-col-stub
+        class="ma-0 pa-2"
+        cols="4"
+      >
+        <v-text-field-stub
+          class="ma-0 pa-0 white"
+          dense=""
+          hide-details=""
+          href="searchbar"
+          label="Name includes"
+          outlined=""
+          placeholder="Name includes..."
+          value="5"
+        />
+      </v-col-stub>
+       
+      <v-col-stub
+        class="ma-0 pa-0"
+        cols="2"
+      >
+        <v-select-stub
+          class="ma-0 pa-0 white"
+          dense=""
+          hide-details=""
+          href="sortSelect"
+          item-text="value"
+          item-value="dir"
+          items="Name ascending,Name descending"
+          label="Sort by"
+          outlined=""
+          value="Name ascending"
+        />
+      </v-col-stub>
+    </v-row-stub>
+  </v-container-stub>
+   
+  <v-container-stub
+    class="white"
+  >
+    <v-container-stub
+      class="d-flex"
+    >
+      <v-pagination-stub
+        class="flex-grow-1 flex-shrink-0"
+        length="1"
+        total-visible="10"
+        value="1"
+      />
+       
+      <v-select-stub
+        class="flex-shrink-1 flex-grow-0"
+        dense=""
+        hide-details=""
+        items="20,50,100"
+        label="items"
+        outlined=""
+        value="20"
+      />
+    </v-container-stub>
+     
+    <v-row-stub>
+      <v-col-stub
+        cols="2"
+      >
+        <itemlistviewitem-stub
+          initamount="1"
+          item="[object Object]"
+        />
+      </v-col-stub>
+      <v-col-stub
+        cols="2"
+      >
+        <itemlistviewitem-stub
+          initamount="1"
+          item="[object Object]"
+        />
+      </v-col-stub>
+      <v-col-stub
+        cols="2"
+      >
+        <itemlistviewitem-stub
+          initamount="1"
+          item="[object Object]"
+        />
+      </v-col-stub>
+      <v-col-stub
+        cols="2"
+      >
+        <itemlistviewitem-stub
+          initamount="1"
+          item="[object Object]"
+        />
+      </v-col-stub>
+      <v-col-stub
+        cols="2"
+      >
+        <itemlistviewitem-stub
+          initamount="1"
+          item="[object Object]"
+        />
+      </v-col-stub>
+      <v-col-stub
+        cols="2"
+      >
+        <itemlistviewitem-stub
+          initamount="1"
+          item="[object Object]"
+        />
+      </v-col-stub>
+      <v-col-stub
+        cols="2"
+      >
+        <itemlistviewitem-stub
+          initamount="1"
+          item="[object Object]"
+        />
+      </v-col-stub>
+    </v-row-stub>
+  </v-container-stub>
+</div>
+`;
+
+exports[`watch sortValue 1`] = `
+<div>
+  <v-container-stub
+    class="pa-0 ma-0"
+    fluid=""
+  >
+    <v-row-stub
+      align="center"
+      class="primary ma-0 pa-0"
+      justify="space-around"
+    >
+      <v-col-stub
+        class="ma-0 pa-2"
+        cols="4"
+      >
+        <v-text-field-stub
+          class="ma-0 pa-0 white"
+          dense=""
+          hide-details=""
+          href="searchbar"
+          label="Name includes"
+          outlined=""
+          placeholder="Name includes..."
+          value=""
+        />
+      </v-col-stub>
+       
+      <v-col-stub
+        class="ma-0 pa-0"
+        cols="2"
+      >
+        <v-select-stub
+          class="ma-0 pa-0 white"
+          dense=""
+          hide-details=""
+          href="sortSelect"
+          item-text="value"
+          item-value="dir"
+          items="Name ascending,Name descending"
+          label="Sort by"
+          outlined=""
+          value="1"
+        />
+      </v-col-stub>
+    </v-row-stub>
+  </v-container-stub>
+   
+  <v-container-stub
+    class="white"
+  >
+    <v-container-stub
+      class="d-flex"
+    >
+      <v-pagination-stub
+        class="flex-grow-1 flex-shrink-0"
+        length="1"
+        total-visible="10"
+        value="1"
+      />
+       
+      <v-select-stub
+        class="flex-shrink-1 flex-grow-0"
+        dense=""
+        hide-details=""
+        items="20,50,100"
+        label="items"
+        outlined=""
+        value="20"
+      />
+    </v-container-stub>
+     
+    <v-row-stub>
+      <v-col-stub
+        cols="2"
+      >
+        <itemlistviewitem-stub
+          initamount="1"
+          item="[object Object]"
+        />
+      </v-col-stub>
+      <v-col-stub
+        cols="2"
+      >
+        <itemlistviewitem-stub
+          initamount="1"
+          item="[object Object]"
+        />
+      </v-col-stub>
+      <v-col-stub
+        cols="2"
+      >
+        <itemlistviewitem-stub
+          initamount="1"
+          item="[object Object]"
+        />
+      </v-col-stub>
+      <v-col-stub
+        cols="2"
+      >
+        <itemlistviewitem-stub
+          initamount="1"
+          item="[object Object]"
+        />
+      </v-col-stub>
+      <v-col-stub
+        cols="2"
+      >
+        <itemlistviewitem-stub
+          initamount="1"
+          item="[object Object]"
+        />
+      </v-col-stub>
+      <v-col-stub
+        cols="2"
+      >
+        <itemlistviewitem-stub
+          initamount="1"
+          item="[object Object]"
+        />
+      </v-col-stub>
+      <v-col-stub
+        cols="2"
+      >
+        <itemlistviewitem-stub
+          initamount="1"
+          item="[object Object]"
+        />
+      </v-col-stub>
+    </v-row-stub>
+  </v-container-stub>
+</div>
+`;
+
+exports[`watch sortValue 2`] = `
+<div>
+  <v-container-stub
+    class="pa-0 ma-0"
+    fluid=""
+  >
+    <v-row-stub
+      align="center"
+      class="primary ma-0 pa-0"
+      justify="space-around"
+    >
+      <v-col-stub
+        class="ma-0 pa-2"
+        cols="4"
+      >
+        <v-text-field-stub
+          class="ma-0 pa-0 white"
+          dense=""
+          hide-details=""
+          href="searchbar"
+          label="Name includes"
+          outlined=""
+          placeholder="Name includes..."
+          value=""
+        />
+      </v-col-stub>
+       
+      <v-col-stub
+        class="ma-0 pa-0"
+        cols="2"
+      >
+        <v-select-stub
+          class="ma-0 pa-0 white"
+          dense=""
+          hide-details=""
+          href="sortSelect"
+          item-text="value"
+          item-value="dir"
+          items="Name ascending,Name descending"
+          label="Sort by"
+          outlined=""
+          value="5"
+        />
+      </v-col-stub>
+    </v-row-stub>
+  </v-container-stub>
+   
+  <v-container-stub
+    class="white"
+  >
+    <v-container-stub
+      class="d-flex"
+    >
+      <v-pagination-stub
+        class="flex-grow-1 flex-shrink-0"
+        length="1"
+        total-visible="10"
+        value="1"
+      />
+       
+      <v-select-stub
+        class="flex-shrink-1 flex-grow-0"
+        dense=""
+        hide-details=""
+        items="20,50,100"
+        label="items"
+        outlined=""
+        value="20"
+      />
+    </v-container-stub>
+     
+    <v-row-stub>
+      <v-col-stub
+        cols="2"
+      >
+        <itemlistviewitem-stub
+          initamount="1"
+          item="[object Object]"
+        />
+      </v-col-stub>
+      <v-col-stub
+        cols="2"
+      >
+        <itemlistviewitem-stub
+          initamount="1"
+          item="[object Object]"
+        />
+      </v-col-stub>
+      <v-col-stub
+        cols="2"
+      >
+        <itemlistviewitem-stub
+          initamount="1"
+          item="[object Object]"
+        />
+      </v-col-stub>
+      <v-col-stub
+        cols="2"
+      >
+        <itemlistviewitem-stub
+          initamount="1"
+          item="[object Object]"
+        />
+      </v-col-stub>
+      <v-col-stub
+        cols="2"
+      >
+        <itemlistviewitem-stub
+          initamount="1"
+          item="[object Object]"
+        />
+      </v-col-stub>
+      <v-col-stub
+        cols="2"
+      >
+        <itemlistviewitem-stub
+          initamount="1"
+          item="[object Object]"
+        />
+      </v-col-stub>
+      <v-col-stub
+        cols="2"
+      >
+        <itemlistviewitem-stub
+          initamount="1"
+          item="[object Object]"
+        />
+      </v-col-stub>
+    </v-row-stub>
+  </v-container-stub>
+</div>
+`;

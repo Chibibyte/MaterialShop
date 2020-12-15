@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component default snapshot 1`] = `
+<checkoutbase-stub
+  icon="mdi-package-variant"
+  next_disabled="true"
+  next_icon="mdi-bank"
+  next_name="next"
+  next_target="bankaccount"
+  subtitle="Select a delivery address or add a new one"
+  title="Delivery Address"
+>
+  <selectorcreate-stub
+    chstate="deliveryAddress"
+    contentarrname="addresses"
+    datadialogtext="[object Object]"
+    datatokeyfunction="function () { [native code] }"
+    emptydatafunction="function () { [native code] }"
+    updatecontent="true"
+  />
+</checkoutbase-stub>
+`;

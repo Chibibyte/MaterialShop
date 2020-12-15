@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component default snapshot 1`] = `
+<contentbase-stub
+  contentmeta="[object Object]"
+  validate="default() {}"
+  value="[object Object]"
+/>
+`;

@@ -1,0 +1,130 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component default snapshot 1`] = `
+<v-container-stub>
+  <v-row-stub>
+    <v-col-stub
+      class="d-flex justify-center align-center"
+      cols="1"
+    >
+      <v-icon-stub
+        href="icon"
+        style="font-size: 8rem;"
+      >
+        mdi-cart
+      </v-icon-stub>
+    </v-col-stub>
+     
+    <v-col-stub>
+      <v-container-stub>
+        <h1
+          href="title"
+        >
+          CheckoutBase TITLE
+        </h1>
+         
+        <h2
+          href="subtitle"
+        >
+          CheckoutBase SUBTITLE
+        </h2>
+         
+        <navbutton-stub
+          class=""
+          disabled="true"
+          icon="mdi-cart"
+          name="next"
+          to="authenticate"
+        />
+      </v-container-stub>
+    </v-col-stub>
+  </v-row-stub>
+   
+</v-container-stub>
+`;
+
+exports[`set output props all props except invisible 1`] = `
+<v-container-stub>
+  <v-row-stub>
+    <v-col-stub
+      class="d-flex justify-center align-center"
+      cols="1"
+    >
+      <v-icon-stub
+        href="icon"
+        style="font-size: 8rem;"
+      >
+        test icon
+      </v-icon-stub>
+    </v-col-stub>
+     
+    <v-col-stub>
+      <v-container-stub>
+        <h1
+          href="title"
+        >
+          test title
+        </h1>
+         
+        <h2
+          href="subtitle"
+        >
+          test subtitle
+        </h2>
+         
+        <navbutton-stub
+          class=""
+          disabled="true"
+          icon="test next_icon"
+          name="test next_name"
+          to="test next_target"
+        />
+      </v-container-stub>
+    </v-col-stub>
+  </v-row-stub>
+   
+</v-container-stub>
+`;
+
+exports[`set output props all props set 1`] = `
+<v-container-stub>
+  <v-row-stub>
+    <v-col-stub
+      class="d-flex justify-center align-center"
+      cols="1"
+    >
+      <v-icon-stub
+        href="icon"
+        style="font-size: 8rem;"
+      >
+        test icon
+      </v-icon-stub>
+    </v-col-stub>
+     
+    <v-col-stub>
+      <v-container-stub>
+        <h1
+          href="title"
+        >
+          test title
+        </h1>
+         
+        <h2
+          href="subtitle"
+        >
+          test subtitle
+        </h2>
+         
+        <navbutton-stub
+          class="d-none"
+          disabled="true"
+          icon="test next_icon"
+          name="test next_name"
+          to="test next_target"
+        />
+      </v-container-stub>
+    </v-col-stub>
+  </v-row-stub>
+   
+</v-container-stub>
+`;

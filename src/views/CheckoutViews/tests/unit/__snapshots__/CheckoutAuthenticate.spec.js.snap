@@ -1,0 +1,35 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component default snapshot 1`] = `
+<v-container-stub
+  class="d-flex green justify-center"
+>
+  <v-form-stub
+    class="white pa-5"
+    lazy-validation=""
+    value="true"
+  >
+    <v-text-field-stub
+      label="E-mail"
+      required=""
+      rules="v => !!v || \\"E-mail is required\\",v => /.+@.+\\\\..+/.test(v) || \\"E-mail must be valid\\",v => v === \\"ro@bo.cop\\" || 'E-mail must be \\"ro@bo.cop\\"'"
+      value="ro@bo.cop"
+    />
+     
+    <v-text-field-stub
+      label="Password"
+      required=""
+      rules="v => !!v || \\"Password is required\\",v => v && v === \\"1234\\" || \\"Password must be 1234\\""
+      type="password"
+      value="1234"
+    />
+     
+    <v-btn-stub
+      class="mr-4"
+      color="success"
+    >
+      next
+    </v-btn-stub>
+  </v-form-stub>
+</v-container-stub>
+`;

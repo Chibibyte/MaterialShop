@@ -1,0 +1,261 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component default snapshot 1`] = `
+<div>
+  <v-row-stub
+    class="justify-space-around"
+  >
+    <v-col-stub
+      cols="12"
+    >
+      <v-btn-stub>
+        <span>
+          Create new
+        </span>
+         
+        <v-icon-stub>
+          add
+        </v-icon-stub>
+      </v-btn-stub>
+       
+      <v-radio-group-stub
+        value=""
+      />
+    </v-col-stub>
+  </v-row-stub>
+   
+  <selectorcreatedialog-stub
+    confirmfunction="function () {
+        if(name === 'add') { _vm.addData(_vm.dataDialogData) }
+        else if(name === 'remove') { _vm.removeData(_vm.dataDialogData) }
+        else if(name === 'update') { _vm.updateData(_vm.dataDialogOldData, _vm.dataDialogData) }
+        }"
+    title="add"
+  />
+  <selectorcreatedialog-stub
+    confirmfunction="function () {
+        if(name === 'add') { _vm.addData(_vm.dataDialogData) }
+        else if(name === 'remove') { _vm.removeData(_vm.dataDialogData) }
+        else if(name === 'update') { _vm.updateData(_vm.dataDialogOldData, _vm.dataDialogData) }
+        }"
+    title="remove"
+  />
+  <selectorcreatedialog-stub
+    confirmfunction="function () {
+        if(name === 'add') { _vm.addData(_vm.dataDialogData) }
+        else if(name === 'remove') { _vm.removeData(_vm.dataDialogData) }
+        else if(name === 'update') { _vm.updateData(_vm.dataDialogOldData, _vm.dataDialogData) }
+        }"
+    title="update"
+  />
+</div>
+`;
+
+exports[`props:updateContent default:true:bankaccounts data 1`] = `
+<div>
+  <v-row-stub
+    class="justify-space-around"
+  >
+    <v-col-stub
+      cols="12"
+    >
+      <v-btn-stub>
+        <span>
+          Create new
+        </span>
+         
+        <v-icon-stub>
+          add
+        </v-icon-stub>
+      </v-btn-stub>
+       
+      <v-radio-group-stub
+        value=""
+      >
+        <v-hover-stub />
+        <v-hover-stub />
+        <v-hover-stub />
+        <v-hover-stub />
+      </v-radio-group-stub>
+    </v-col-stub>
+  </v-row-stub>
+   
+  <selectorcreatedialog-stub
+    confirmfunction="function () {
+        if(name === 'add') { _vm.addData(_vm.dataDialogData) }
+        else if(name === 'remove') { _vm.removeData(_vm.dataDialogData) }
+        else if(name === 'update') { _vm.updateData(_vm.dataDialogOldData, _vm.dataDialogData) }
+        }"
+    title="add"
+  />
+  <selectorcreatedialog-stub
+    confirmfunction="function () {
+        if(name === 'add') { _vm.addData(_vm.dataDialogData) }
+        else if(name === 'remove') { _vm.removeData(_vm.dataDialogData) }
+        else if(name === 'update') { _vm.updateData(_vm.dataDialogOldData, _vm.dataDialogData) }
+        }"
+    title="remove"
+  />
+  <selectorcreatedialog-stub
+    confirmfunction="function () {
+        if(name === 'add') { _vm.addData(_vm.dataDialogData) }
+        else if(name === 'remove') { _vm.removeData(_vm.dataDialogData) }
+        else if(name === 'update') { _vm.updateData(_vm.dataDialogOldData, _vm.dataDialogData) }
+        }"
+    title="update"
+  />
+</div>
+`;
+
+exports[`props:updateContent default:true:no data 1`] = `
+<div>
+  <v-row-stub
+    class="justify-space-around"
+  >
+    <v-col-stub
+      cols="12"
+    >
+      <v-btn-stub>
+        <span>
+          Create new
+        </span>
+         
+        <v-icon-stub>
+          add
+        </v-icon-stub>
+      </v-btn-stub>
+       
+      <v-radio-group-stub
+        value=""
+      />
+    </v-col-stub>
+  </v-row-stub>
+   
+  <selectorcreatedialog-stub
+    confirmfunction="function () {
+        if(name === 'add') { _vm.addData(_vm.dataDialogData) }
+        else if(name === 'remove') { _vm.removeData(_vm.dataDialogData) }
+        else if(name === 'update') { _vm.updateData(_vm.dataDialogOldData, _vm.dataDialogData) }
+        }"
+    title="add"
+  />
+  <selectorcreatedialog-stub
+    confirmfunction="function () {
+        if(name === 'add') { _vm.addData(_vm.dataDialogData) }
+        else if(name === 'remove') { _vm.removeData(_vm.dataDialogData) }
+        else if(name === 'update') { _vm.updateData(_vm.dataDialogOldData, _vm.dataDialogData) }
+        }"
+    title="remove"
+  />
+  <selectorcreatedialog-stub
+    confirmfunction="function () {
+        if(name === 'add') { _vm.addData(_vm.dataDialogData) }
+        else if(name === 'remove') { _vm.removeData(_vm.dataDialogData) }
+        else if(name === 'update') { _vm.updateData(_vm.dataDialogOldData, _vm.dataDialogData) }
+        }"
+    title="update"
+  />
+</div>
+`;
+
+exports[`props:updateContent false:bankaccounts data 1`] = `
+<div>
+  <v-row-stub
+    class="justify-space-around"
+  >
+    <v-col-stub
+      cols="12"
+    >
+      <v-btn-stub>
+        <span>
+          Create new
+        </span>
+         
+        <v-icon-stub>
+          add
+        </v-icon-stub>
+      </v-btn-stub>
+       
+      <v-radio-group-stub
+        value=""
+      />
+    </v-col-stub>
+  </v-row-stub>
+   
+  <selectorcreatedialog-stub
+    confirmfunction="function () {
+        if(name === 'add') { _vm.addData(_vm.dataDialogData) }
+        else if(name === 'remove') { _vm.removeData(_vm.dataDialogData) }
+        else if(name === 'update') { _vm.updateData(_vm.dataDialogOldData, _vm.dataDialogData) }
+        }"
+    title="add"
+  />
+  <selectorcreatedialog-stub
+    confirmfunction="function () {
+        if(name === 'add') { _vm.addData(_vm.dataDialogData) }
+        else if(name === 'remove') { _vm.removeData(_vm.dataDialogData) }
+        else if(name === 'update') { _vm.updateData(_vm.dataDialogOldData, _vm.dataDialogData) }
+        }"
+    title="remove"
+  />
+  <selectorcreatedialog-stub
+    confirmfunction="function () {
+        if(name === 'add') { _vm.addData(_vm.dataDialogData) }
+        else if(name === 'remove') { _vm.removeData(_vm.dataDialogData) }
+        else if(name === 'update') { _vm.updateData(_vm.dataDialogOldData, _vm.dataDialogData) }
+        }"
+    title="update"
+  />
+</div>
+`;
+
+exports[`props:updateContent false:no data 1`] = `
+<div>
+  <v-row-stub
+    class="justify-space-around"
+  >
+    <v-col-stub
+      cols="12"
+    >
+      <v-btn-stub>
+        <span>
+          Create new
+        </span>
+         
+        <v-icon-stub>
+          add
+        </v-icon-stub>
+      </v-btn-stub>
+       
+      <v-radio-group-stub
+        value=""
+      />
+    </v-col-stub>
+  </v-row-stub>
+   
+  <selectorcreatedialog-stub
+    confirmfunction="function () {
+        if(name === 'add') { _vm.addData(_vm.dataDialogData) }
+        else if(name === 'remove') { _vm.removeData(_vm.dataDialogData) }
+        else if(name === 'update') { _vm.updateData(_vm.dataDialogOldData, _vm.dataDialogData) }
+        }"
+    title="add"
+  />
+  <selectorcreatedialog-stub
+    confirmfunction="function () {
+        if(name === 'add') { _vm.addData(_vm.dataDialogData) }
+        else if(name === 'remove') { _vm.removeData(_vm.dataDialogData) }
+        else if(name === 'update') { _vm.updateData(_vm.dataDialogOldData, _vm.dataDialogData) }
+        }"
+    title="remove"
+  />
+  <selectorcreatedialog-stub
+    confirmfunction="function () {
+        if(name === 'add') { _vm.addData(_vm.dataDialogData) }
+        else if(name === 'remove') { _vm.removeData(_vm.dataDialogData) }
+        else if(name === 'update') { _vm.updateData(_vm.dataDialogOldData, _vm.dataDialogData) }
+        }"
+    title="update"
+  />
+</div>
+`;

@@ -1,0 +1,102 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component default snapshot 1`] = `
+<v-container-stub
+  class="pa-0 ma-0"
+>
+  <v-app-bar-stub
+    app=""
+    class="pa-0 ma-0"
+    color="primaryDarkened"
+    dark=""
+  >
+    <v-container-stub
+      class="d-flex justify-space-between pa-0 ma-0"
+    >
+      <navbutton-stub
+        icon="mdi-shopping-search"
+        name="Shopping"
+        routerpush="true"
+        to="/"
+      />
+       
+      <navbutton-stub
+        icon="mdi-cart"
+        name="Cart (undefined)"
+        routerpush="true"
+        to="/cart"
+      />
+       
+      <navbutton-stub
+        disabled="true"
+        icon="mdi-cash-register"
+        name="Checkout"
+        routerpush="true"
+        runbefore="function () { return this$1.$store.commit('checkout/setOrder', [].concat( this$1.$store.state.noncheckout.cart )); }"
+        to="/checkout"
+      />
+       
+      <v-btn-stub
+        fab=""
+        small=""
+      >
+        <v-icon-stub
+          small=""
+        >
+          mdi-help
+        </v-icon-stub>
+      </v-btn-stub>
+    </v-container-stub>
+  </v-app-bar-stub>
+   
+  <v-dialog-stub
+    max-width="290"
+  >
+    <v-card-stub>
+      <v-card-title-stub
+        class="headline"
+      >
+        Material Shop
+      </v-card-title-stub>
+       
+      <v-card-text-stub
+        class="orange--text"
+      >
+        !Disclaimer! This is not a real shop!
+      </v-card-text-stub>
+       
+      <v-card-text-stub>
+        
+        Welcome to the Material Shop
+        
+        <br />
+        Pretend to buy the latest Material Design Icons
+        
+        <br />
+        (or get them for free at
+        
+        <br />
+         
+        <a
+          href="https://materialdesignicons.com"
+        >
+          https://materialdesignicons.com
+        </a>
+        )
+      
+      </v-card-text-stub>
+       
+      <v-card-actions-stub>
+        <v-spacer-stub />
+         
+        <v-btn-stub
+          color="green darken-1"
+          text=""
+        >
+          Close
+        </v-btn-stub>
+      </v-card-actions-stub>
+    </v-card-stub>
+  </v-dialog-stub>
+</v-container-stub>
+`;

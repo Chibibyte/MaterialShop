@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`NonCheckoutView.vue default snapshot 1`] = `
+<div>
+  <navbar-stub />
+   
+  <v-main-stub>
+    <router-view-stub />
+  </v-main-stub>
+</div>
+`;

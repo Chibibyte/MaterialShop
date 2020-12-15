@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component default snapshot 1`] = `
+<checkoutbase-stub
+  icon="mdi-check"
+  next_icon="mdi-shopping"
+  next_name="Shopping"
+  next_target="/"
+  subtitle="You order will be processed immediately."
+  title="Thank you!"
+/>
+`;
