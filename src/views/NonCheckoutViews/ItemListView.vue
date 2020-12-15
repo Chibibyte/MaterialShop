@@ -138,6 +138,7 @@ export default {
       this.onChangePage(this.page);
     },
     searchValue() {
+      this.page = 1;
       this.onChangePage(this.page);
     },
   },
